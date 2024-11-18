@@ -1,5 +1,7 @@
 # Ultimate Productivity Hub  
 
+![Ultimate productivity hub Screenshot](https://m0nishkumar.github.io/portfolio//projectImages/pimage2.png) 
+
 The **Ultimate Productivity Hub** is a dynamic, all-in-one productivity platform designed to help users organize their daily activities and achieve long-term goals. With features like routine management, goal tracking, and financial planning, this application offers an integrated approach to enhance your productivity. Built with **React**, **Node.js**, and **MongoDB**, it provides a user-friendly experience for managing your life.  
 
 ## Features  
